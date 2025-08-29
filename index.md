@@ -1,3 +1,11 @@
+# Jade's First CS193 Homework
+
+Here's what I love about CS193:
+- CS193 will better prepare me for other CS classes
+- Only one lecture a week (and it's not at 7:30am!)
+- PSO period is available but optional
+- There is no final exam!
+
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/kalutes/CS193_Fall18_Lab1/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
